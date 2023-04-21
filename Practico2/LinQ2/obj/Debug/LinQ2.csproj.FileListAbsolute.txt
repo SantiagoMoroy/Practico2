@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\LinQ2\bin\Debug\LinQ2.exe.config
+C:\Users\Alumno\source\repos\LinQ2\bin\Debug\LinQ2.exe
+C:\Users\Alumno\source\repos\LinQ2\bin\Debug\LinQ2.pdb
+C:\Users\Alumno\source\repos\LinQ2\obj\Debug\LinQ2.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\LinQ2\obj\Debug\LinQ2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\LinQ2\obj\Debug\LinQ2.exe
+C:\Users\Alumno\source\repos\LinQ2\obj\Debug\LinQ2.pdb
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\bin\Debug\LinQ2.exe.config
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\bin\Debug\LinQ2.exe
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\bin\Debug\LinQ2.pdb
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\obj\Debug\LinQ2.csproj.AssemblyReference.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\obj\Debug\LinQ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\obj\Debug\LinQ2.csproj.CoreCompileInputs.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\obj\Debug\LinQ2.exe
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\LinQ2\obj\Debug\LinQ2.pdb

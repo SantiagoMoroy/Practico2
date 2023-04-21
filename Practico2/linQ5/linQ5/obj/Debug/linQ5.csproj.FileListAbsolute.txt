@@ -1,0 +1,8 @@
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\bin\Debug\linQ5.exe.config
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\bin\Debug\linQ5.exe
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\bin\Debug\linQ5.pdb
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\obj\Debug\linQ5.csproj.AssemblyReference.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\obj\Debug\linQ5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\obj\Debug\linQ5.csproj.CoreCompileInputs.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\obj\Debug\linQ5.exe
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ5\linQ5\obj\Debug\linQ5.pdb
