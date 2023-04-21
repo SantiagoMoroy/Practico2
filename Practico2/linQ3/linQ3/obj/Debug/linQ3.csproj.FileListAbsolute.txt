@@ -1,0 +1,8 @@
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\bin\Debug\linQ3.exe.config
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\bin\Debug\linQ3.exe
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\bin\Debug\linQ3.pdb
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\obj\Debug\linQ3.csproj.AssemblyReference.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\obj\Debug\linQ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\obj\Debug\linQ3.csproj.CoreCompileInputs.cache
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\obj\Debug\linQ3.exe
+C:\Users\mania\OneDrive\Escritorio\cei\programacion 3\linQ3\linQ3\obj\Debug\linQ3.pdb

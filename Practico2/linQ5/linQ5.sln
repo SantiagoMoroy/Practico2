@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linQ5", "linQ5\linQ5.csproj", "{2D565FAC-0471-4EDE-9788-D434C803BCF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D565FAC-0471-4EDE-9788-D434C803BCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D565FAC-0471-4EDE-9788-D434C803BCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D565FAC-0471-4EDE-9788-D434C803BCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D565FAC-0471-4EDE-9788-D434C803BCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF0A9E3E-E0F3-470A-B359-91B021AA00FA}
+	EndGlobalSection
+EndGlobal
